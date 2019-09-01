@@ -1,4 +1,4 @@
-const { selectionSort } = require('../selectionSort.js');
+const { selectionSort } = require('../javascript/selectionSort.js');
 const { expect } = require('chai');
 
 describe('selectionSort', () => {

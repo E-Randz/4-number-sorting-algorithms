@@ -1,4 +1,4 @@
-const { insertionSort } = require('../insertionSort.js');
+const { insertionSort } = require('../javascript/insertionSort');
 const { expect } = require('chai');
 
 describe('insertionSort', () => {

@@ -1,4 +1,4 @@
-const { mergeSort } = require('../mergeSort.js');
+const { mergeSort } = require('../javascript/mergeSort.js');
 const { expect } = require('chai');
 
 describe('mergeSort', () => {

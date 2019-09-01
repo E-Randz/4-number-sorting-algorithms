@@ -1,4 +1,4 @@
-const { bubbleSort } = require('../bubbleSort.js');
+const { bubbleSort } = require('../javascript/bubbleSort');
 const { expect } = require('chai');
 
 describe('bubbleSort', () => {
