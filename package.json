@@ -1,0 +1,20 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && mocha ./spec/*.spec.js",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@types/node": "^12.7.3"
+  }
+}
